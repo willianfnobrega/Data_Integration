@@ -2,6 +2,8 @@ README
 
 Project Overview
 
+Link for the explanation video: https://gismauniversity-my.sharepoint.com/:v:/g/personal/willian_franco_gisma-student_com/IQDlnWgW1rUmSJxzVt-dO7_DAS5ByPWUWWG0pChTBYoP828?e=cM2x9k&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
 This project follows as much as possible the Medallion Architecture, that divides the data into three notebooks: Bronze, Silver, and Gold. 
 Each notebook represents one stage of the data pipeline and should be executed in this order.
 
